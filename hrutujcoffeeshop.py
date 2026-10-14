@@ -2,7 +2,6 @@
 
 #going to build a coffee shop:)
 
-#making Robot parker!!
 
 print("Hello, welcome to hrutuj coffee!!!")
 
@@ -12,7 +11,7 @@ print("Hello " + name + ", thank you so much for coming in today,\n")
 
 menu = "black coffee, Espresso, latte, cappucino"
 
-print(name + ", What would you like from our menu today? Here is what we are serving.\n" + menu)
+print(name + ", What would you like from our menu? Here is what we are serving.\n" + menu)
 
 order = input()
 
